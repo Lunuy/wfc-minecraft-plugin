@@ -1,7 +1,7 @@
 # wfc-minecraft-plugin
 Minecraft plugin for 3D Wave Function Collapse.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7m775lzlkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[demo video](https://www.youtube.com/embed/O7m775lzlkA)
 
 # How to install
 Build this plugin and put to bukkit plugins directory.
