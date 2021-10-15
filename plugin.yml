@@ -1,0 +1,18 @@
+name: WaveFunctionCollapse3D
+version: 1.0
+author: Lunuy
+description: Wave Function Collapse Client
+
+main: main.Main
+
+commands:
+     input:
+          description: Set input point
+     gen:
+          description: Generate
+     kgen:
+          description: Keep and generate based placed blocks
+     cl:
+          description: Clear!
+     genstop:
+          description: Cancel generation.
